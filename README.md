@@ -11,7 +11,7 @@
 
 
  ##### 그나마 아주~조금 할줄아는 언어들
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
  <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=while"/>
  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-1572B6?style=flat-square&logo=C++&logoColor=white"/>
