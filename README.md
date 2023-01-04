@@ -1,21 +1,24 @@
 ### 조성민
 #### 컴퓨터 전자시스템 공학부 전공
-##### 웹 백엔드 개발자가 되고 싶은 대학생(코린이)입니다.
+##### BlockChain Developer & Backend Developer
 
 
-#### 2022-2학기 목표
+#### 2023-1학기 목표
 <div>
-1.django DRF 공부 & 배포 공부해서 웹 사이트 배포해보기
+1.블록체인 웹사이트 개발
  </div>
  <div>
-2.Spring 공부
+2.블록체인 이론 공부
  </div>
  <div>
-3.코테 준비...
+3.웹 프론트 & 백 공부
+ </div>
+ <div>
+4. 코테 준비..
  </div>
 
 
- ##### 그나마 아주~조금 할줄아는 언어들
+ ##### 할줄아는 언어들
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
  <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=while"/>
  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
