@@ -16,7 +16,9 @@
  <div>
 4. 코테 준비..
  </div>
-
+<div>
+5. 진로를 좀 더 고민해서 결정하기..!
+</div>
 
  ##### 할줄아는 언어들
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
