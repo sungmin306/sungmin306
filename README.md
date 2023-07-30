@@ -3,7 +3,7 @@
 #### Computer and Electronic Systems Engineering 
 ##### Backend Developer
 ![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=sungmin306&show_icons=true&count_private=true&line_height=24&theme=material-palenight&hide=stars)
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sungmin306&layout=compact&theme=material-palenight)-->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sungmin306&layout=compact&theme=material-palenight)
 
 ## ▎🛠 Tech Stacks
 - Back-end : <span><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/></span>
@@ -18,6 +18,15 @@
 <span><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></span>
 <span><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c++&logoColor=white"/></span>
+
+<details>
+<summary>🏆Award🏆</summary>
+<ul>
+  <a href="https://github.com/sungmin306/dognose_recognition_management_service">강아지 비문인식을 활용한 반려동물 앱</a><br>
+  <a href="https://github.com/sungmin306/Avg26_Personal_Color_Performance">사람 감정인식을 통한 무대 배경 웹</a>
+</ul>
+  
+<details>
 
 <!--
 BOJ RANKING
