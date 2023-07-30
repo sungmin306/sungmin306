@@ -19,6 +19,8 @@
 <span><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c++&logoColor=white"/></span>
 
+
+## 
 <details>
 <summary>🏆Award🏆</summary>
 <ul>
@@ -26,7 +28,7 @@
   <a href="https://github.com/sungmin306/Avg26_Personal_Color_Performance">사람 감정인식을 통한 무대 배경 웹</a>
 </ul>
   
-<details>
+</details>
 
 <!--
 BOJ RANKING
