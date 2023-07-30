@@ -2,8 +2,10 @@
 #### Hankuk University of Foreign Studies
 #### Computer and Electronic Systems Engineering 
 ##### Backend Developer
+  
 ![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=sungmin306&show_icons=true&count_private=true&line_height=24&theme=material-palenight&hide=stars)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sungmin306&layout=compact&theme=material-palenight)
+
 
 ## ▎🛠 Tech Stacks
 - Back-end : <span><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/></span>
@@ -27,8 +29,14 @@
   <a href="https://github.com/sungmin306/dognose_recognition_management_service">강아지 비문인식을 활용한 반려동물 앱</a><br>
   <a href="https://github.com/sungmin306/Avg26_Personal_Color_Performance">사람 감정인식을 통한 무대 배경 웹</a>
 </ul>
-  
 </details>
+
+## ▎🧑‍💻 About me
+<a href="https://gongrogramming.tistory.com/"><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
+<div title="another03067@gmail.com">
+<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJvnrrXTcvDlJLgnDpQCXlcdPMkMCzxVnQHBlsZVRTJpNtmKHTbcQXRrQvtcfRfTHMksnjB"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+
 
 <!--
 BOJ RANKING
