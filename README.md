@@ -1,19 +1,13 @@
-### 조성민
-#### 컴퓨터 전자시스템 공학부 전공
+# ▎Hello,<br>▎I'm SUNGMIN CHO
+#### Hankuk University of Foreign Studies
+#### Computer and Electronic Systems Engineering 
 ##### Backend Developer
+![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=sungmin306&show_icons=true&count_private=true&line_height=24&theme=material-palenight&hide=stars)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sungmin306&layout=compact&theme=material-palenight)-->
 
 
-#### 2023-2학기 목표
-
- <div>
-1.Spring 
- </div>
- <div>
-2. 코테 준비..
- </div>
-<div>
-3. DB 공부하기
-</div>
+## ▎🧑‍💻 Portfolio Notion
+- ### [Sungmin-Cho](https://www.notion.so/s-study-blog-fc4593ee7c9d433f8220b428efb16f15?pvs=4)
 
  ##### 할줄아는 언어들
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
