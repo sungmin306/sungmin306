@@ -33,8 +33,9 @@
 
 ## ▎🧑‍💻 About me
 <a href="https://gongrogramming.tistory.com/"><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
+<!--
 <div title="another03067@gmail.com">
-<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJvnrrXTcvDlJLgnDpQCXlcdPMkMCzxVnQHBlsZVRTJpNtmKHTbcQXRrQvtcfRfTHMksnjB"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJvnrrXTcvDlJLgnDpQCXlcdPMkMCzxVnQHBlsZVRTJpNtmKHTbcQXRrQvtcfRfTHMksnjB"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> -->
 
 
 
