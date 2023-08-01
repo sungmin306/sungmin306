@@ -1,7 +1,7 @@
 # ▎Hello,<br>▎I'm SUNGMIN CHO
 #### Hankuk University of Foreign Studies
 #### Computer and Electronic Systems Engineering 
-##### Backend Developer
+- 🌱 I’m currently learning Spring
   
 ![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=sungmin306&show_icons=true&count_private=true&line_height=24&theme=material-palenight&hide=stars)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sungmin306&layout=compact&theme=material-palenight)
