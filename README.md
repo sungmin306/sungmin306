@@ -1,3 +1,4 @@
+![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=%20WELCOME👋&fontAlign=70&rotate=13&fontAlignY=25&desc=sungmin's%20GitHub&descAlign=70.&descAlignY=44)
 # ▎Hello,<br>▎I'm SUNGMIN CHO
 #### Hankuk University of Foreign Studies
 #### Computer and Electronic Systems Engineering 
@@ -33,6 +34,7 @@
 
 ## ▎🧑‍💻 About me
 <a href="https://gongrogramming.tistory.com/"><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
+<!--![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer) -->
 <!--
 <div title="another03067@gmail.com">
 <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJvnrrXTcvDlJLgnDpQCXlcdPMkMCzxVnQHBlsZVRTJpNtmKHTbcQXRrQvtcfRfTHMksnjB"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> -->
