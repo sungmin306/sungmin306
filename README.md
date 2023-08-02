@@ -1,4 +1,4 @@
-![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=%20WELCOME👋&fontAlign=70&rotate=13&fontAlignY=25&desc=sungmin's%20GitHub&descAlign=70.&descAlignY=44)
+<!--![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=%20WELCOME👋&fontAlign=70&rotate=13&fontAlignY=25&desc=sungmin's%20GitHub&descAlign=70.&descAlignY=44) -->
 # ▎Hello,<br>▎I'm SUNGMIN CHO
 #### Hankuk University of Foreign Studies
 #### Computer and Electronic Systems Engineering 
