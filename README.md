@@ -32,7 +32,7 @@
 </ul>
 </details>
 
-## ▎🧑‍💻 About me
+## ▎🧑‍💻 - 💬 Ask me about ...
 <a href="https://gongrogramming.tistory.com/"><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
 <!--![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer) -->
 <!--
