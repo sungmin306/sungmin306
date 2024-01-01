@@ -22,6 +22,10 @@
 <span><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c++&logoColor=white"/></span>
 
+##  2024 새해 목표
+<span>1일1커밋하기</span><br/>
+<span>주 5일 이상 8시간 이상 공부하기</span><br/>
+<span>실 서비스 배포하기</span><br/>
 
 ## 🏆🏆
 <details>
