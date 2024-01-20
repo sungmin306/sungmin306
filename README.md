@@ -26,6 +26,8 @@
 <span>1일1커밋하기</span><br/>
 <span>주 5일 이상 8시간 이상 공부하기</span><br/>
 <span>실 서비스 배포하기</span><br/>
+<span>독서 꾸준히 읽기</span><br/>
+<span>블로그 꾸준히 작성</span><br/>
 
 ## 🏆🏆
 <details>
