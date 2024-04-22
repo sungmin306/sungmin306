@@ -3,9 +3,6 @@
 #### Hankuk University of Foreign Studies
 #### Computer and Electronic Systems Engineering 
 - 🌱 I’m currently learning Spring & Algorithm
-  
-![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=sungmin306&show_icons=true&count_private=true&line_height=24&theme=material-palenight&hide=stars)
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sungmin306&layout=compact&theme=material-palenight)-->
 
 
 ## ▎🛠 Tech Stacks
@@ -46,6 +43,10 @@
 
 ## ▎🧑‍💻 - 💬 Ask me about ...
 <a href="https://gongrogramming.tistory.com/"><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
+
+![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=sungmin306&show_icons=true&count_private=true&line_height=24&theme=material-palenight&hide=stars)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sungmin306&layout=compact&theme=material-palenight)-->
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chorapael)](https://solved.ac/chorapael/)
 <!--![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer) -->
 <!--
 <div title="another03067@gmail.com">
