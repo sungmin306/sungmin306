@@ -21,7 +21,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=sungmin306&show_icons=true&count_private=true&line_height=24&theme=material-palenight&hide=stars)
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sungmin306&layout=compact&theme=material-palenight)-->
 ##  2024 새해 목표
-<span>일주일 5커밋 이상</span><br/>
 <span>주 5일 이상 8시간 이상 공부하기</span><br/>
 <span>실 서비스 배포하기</span><br/>
 <span>독서 꾸준히 읽기</span><br/>
