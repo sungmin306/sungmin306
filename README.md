@@ -2,7 +2,7 @@
 # ▎Hello,<br>▎I'm SUNGMIN CHO
 #### Hankuk University of Foreign Studies
 #### Computer and Electronic Systems Engineering 
-- 🌱 I’m currently learning Spring & Algorithm
+- 🌱 I’m currently learning Spring & Algorithm & Docker & k8s
 
 
 ## ▎🛠 Tech Stacks
