@@ -35,6 +35,8 @@
 ## MyService
 ### 훕팅
 <a href="https://github.com/sungmin306/hufting-back-end">훕팅깃허브(과팅 매칭 서비스)</a><br>
+### 외개인
+<a href="https://github.com/oegaein-project/oegaein-back-end">외개인깃허브</a><br>
 
 
 ## ▎🧑‍💻 - 💬 Ask me about ...
