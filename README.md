@@ -23,11 +23,12 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=sungmin306&show_icons=true&count_private=true&line_height=24&theme=material-palenight&hide=stars)
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sungmin306&layout=compact&theme=material-palenight)-->
-##  2024 새해 목표
-<span>주 5일 이상 8시간 이상 공부하기</span><br/>
-<span>실 서비스 배포하기</span><br/>
+##  2025 목표
+<span>프로젝트 배포 및 운영</span><br/>
 <span>독서 꾸준히 읽기</span><br/>
-<span>블로그 꾸준히 작성</span><br/>
+<span>알고리즘 꾸준히 공부하기</span><br/>
+<span>부족한 부분 및 cs 공부</span><br/>
+
 
 ## 🏆🏆
 <summary>Awards</summary>
