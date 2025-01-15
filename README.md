@@ -27,7 +27,7 @@
 <span>ComNCheck 프로젝트 배포 및 운영</span><br/>
 <span>알고리즘 꾸준히 공부하기</span><br/>
 <span>부족한 부분 및 cs 공부</span><br/>
-
+<span>spring 학습</span><br/>
 
 ## 🏆🏆
 <summary>Awards</summary>
