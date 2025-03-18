@@ -42,8 +42,7 @@
 ### 외개인
 <a href="https://github.com/oegaein-project/oegaein-back-end">외개인깃허브</a><br>
 ### 컴앤체크
-<a href="">ComNCheck</a><br>
-컴앤체크 서비스 링크
+컴앤체크 서비스 링크<br>
 <a href="https://www.comncheck.com">ComNCheck</a><br>
 
 
