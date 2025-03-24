@@ -41,9 +41,9 @@
 <a href="https://github.com/sungmin306/hufting-back-end">훕팅깃허브(과팅 매칭 서비스)</a><br>
 ### 외개인
 <a href="https://github.com/oegaein-project/oegaein-back-end">외개인깃허브</a><br>
-### 컴앤체크
-컴앤체크 서비스 링크<br>
-<a href="https://www.comncheck.com">ComNCheck</a><br>
+### 컴앤체크(현재 운영중)
+<a href="https://www.comncheck.com">ComNCheck서비스 이동 </a><br>
+<a href="https://github.com/sungmin306/ComNCheck-backend">컴앤체크 깃허브</a><br>
 
 
 ## ▎🧑‍💻 - 💬 Ask me about ...
