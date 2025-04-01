@@ -37,7 +37,8 @@
 
 
 ## MyService
-### 컴앤체크(현재 운영중)
+### 🌱<mark>컴앤체크(현재 운영중)</mark>🌱
+<!--![컴앤체크](https://img.shields.io/badge/컴앤체크-현재%20운영중-brightgreen) -->
 <a href="https://www.comncheck.com">ComNCheck서비스 이동 </a><br>
 <a href="https://github.com/sungmin306/ComNCheck-backend">컴앤체크 깃허브</a><br>
 ### 훕팅
