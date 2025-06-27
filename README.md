@@ -1,8 +1,11 @@
 <!--![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=%20WELCOME👋&fontAlign=70&rotate=13&fontAlignY=25&desc=sungmin's%20GitHub&descAlign=70.&descAlignY=44) -->
 # ▎Hello,<br>▎I'm SUNGMIN CHO
+#### 20218.03 ~ 2024.02
 #### Hankuk University of Foreign Studies
 #### Computer and Electronic Systems Engineering 
-- 🌱 I’m currently learning Spring & Docker & k8s
+#### 2024.08 ~ 
+#### Korea Electronics Technology Institute
+- 🌱 I’m currently learning Cloud cloud computing & k8s & Java-Spring
 
 
 ## ▎🛠 Tech Stacks
