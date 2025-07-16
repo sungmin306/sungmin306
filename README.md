@@ -5,6 +5,9 @@
 #### Computer and Electronic Systems Engineering 
 #### 2024.08 ~ 
 #### Korea Electronics Technology Institute
+- SDI Technology Development for Future Mobility
+- AI Semiconductor Cloud Platform Technology Development
+<br>
 - 🌱 I’m currently learning Cloud cloud computing & k8s & Java-Spring
 
 
