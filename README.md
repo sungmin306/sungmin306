@@ -39,8 +39,8 @@
 
 ## 🏆🏆
 <summary>Awards</summary>
-  <a href="https://github.com/sungmin306/dognose_recognition_management_service">강아지 비문인식을 활용한 반려동물 앱</a><br>
-  <a href="https://github.com/sungmin306/Avg26_Personal_Color_Performance">사람 감정인식을 통한 무대 배경 웹</a>
+  <a href="https://github.com/sungmin306/dognose_recognition_management_service">강아지 비문인식을 활용한 반려동물 앱(최우수상)</a><br>
+  <a href="https://github.com/sungmin306/Avg26_Personal_Color_Performance">사람 감정인식을 통한 무대 배경 웹(최우수상)</a>
 
 
 
