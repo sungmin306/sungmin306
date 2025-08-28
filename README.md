@@ -13,7 +13,7 @@ _Researcher (2024.08 ~)_
 
 ## 🚀 About Me  
 - 🌱 Currently learning **Cloud Computing**, **Kubernetes (k8s)**, **Java Spring**, and **Go**  
-- 🔍 Interested in **AI, Future Mobility, and Cloud-based Semiconductor Platforms**  
+- 🔍 I am particularly interested in **Kubernetes-native environments** and **distributed cloud computing**.  
 - ⚡ Passionate about building scalable systems and applying modern practices such as the **k8s Operator pattern**  
 
 ---
