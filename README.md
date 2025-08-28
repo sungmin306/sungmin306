@@ -41,13 +41,6 @@ _Researcher (2024.08 ~)_
 
 ![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=sungmin306&show_icons=true&count_private=true&line_height=24&theme=material-palenight&hide=stars)
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sungmin306&layout=compact&theme=material-palenight)-->
-##  2025 목표
-<span>실서비스 배포 및 운영</span><br/>
-<span>scheduler 및 operator 학습</span><br/>
-<span>쿠버네티스 학습</span><br/>
-<span>자격증 취득</span><br/>
-<span>알고리즘 꾸준히 공부하기</span><br/>
-<span>SQL 문제풀이</span><br/>
 
 ## 🏆🏆
 <summary>Awards</summary>
