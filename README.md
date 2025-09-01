@@ -34,6 +34,7 @@ _Researcher (2024.08 ~)_
 - Version Control : <span><img src="https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></span>
 - Programming Language : <span><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/></span>
 <span><img src="https://img.shields.io/badge/Python3-3776AB?style=for-the-badge&logo=python&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></span>
 <span><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/></span>
