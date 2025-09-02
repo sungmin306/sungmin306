@@ -61,7 +61,6 @@ _Researcher (2024.08 ~)_
 <a href="https://github.com/oegaein-project/oegaein-back-end">외개인깃허브</a><br>
 
 
-
 ## ▎🧑‍💻 - 💬 Ask me about ...
 <a href="https://gongrogramming.tistory.com/"><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
 
