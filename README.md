@@ -5,9 +5,12 @@
 _B.S. in Computer & Electronic Systems Engineering (2018.03 ~ 2024.02)_  
 
 💻 **Korea Electronics Technology Institute (KETI)**  
-_Researcher (2024.08 ~)_  
+_Researcher (2024.08 ~ 2025.12)_  
 - SDI Technology Development for Future Mobility  
-- AI Semiconductor Cloud Platform Technology Development  
+- AI Semiconductor Cloud Platform Technology Development
+
+💻 **DataUniverse**  
+_Developer (20246.06 ~ )_  
 
 ---
 
