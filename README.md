@@ -69,20 +69,7 @@ _Developer (20246.06 ~ )_
 ## ▎🧑‍💻 - 💬 Ask me about ...
 <a href="https://gongrogramming.tistory.com/"><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
 
-## BaekJoon
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chorapael)](https://solved.ac/chorapael/)
-<!--![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer) -->
-<!--
-<div title="another03067@gmail.com">
-<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJvnrrXTcvDlJLgnDpQCXlcdPMkMCzxVnQHBlsZVRTJpNtmKHTbcQXRrQvtcfRfTHMksnjB"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> -->
 
-
-
-<!--
-BOJ RANKING
-<br>
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chorapael)](https://solved.ac/유저네임)
--->
 
 
 
